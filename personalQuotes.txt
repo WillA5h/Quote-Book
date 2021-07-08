@@ -3,4 +3,8 @@ I have awful ping
 
 I am now going to push this for the first time
 Editing from the clone
+<<<<<<< HEAD
 The laptop is blue
+=======
+The laptop is red
+>>>>>>> 58ceab989aa6094c656687c25b64a131c40d8bff
